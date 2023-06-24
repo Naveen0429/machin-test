@@ -8,8 +8,7 @@
 2.Context API<br/>
 3.Bootstrap 4  <br/>
 4.React Router DOM <br/>
-5.React UUID <br/>
-6.Classnames
+5.Classnames
 
 
 
